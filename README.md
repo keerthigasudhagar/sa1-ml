@@ -1,5 +1,5 @@
 # sa1-ml
-'''
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
@@ -80,8 +80,13 @@ for key, value in accuracy_results.items():
 ```
 # output:
 
+<img width="662" alt="ML" src="https://github.com/user-attachments/assets/aa5a02b4-a991-4931-93d7-691c223210ee" />
 
 
-![image](https://github.com/user-attachments/assets/55418e04-fb3a-43ff-bb2d-261cc16c5492)
+<img width="436" alt="ML2" src="https://github.com/user-attachments/assets/4086edc2-db43-41de-89bb-97bb7f6ea34f" />
+
+<img width="532" alt="ML 3" src="https://github.com/user-attachments/assets/744d44f3-a6c1-458f-aadc-bfeea2213d6d" />
+
+
 
     
